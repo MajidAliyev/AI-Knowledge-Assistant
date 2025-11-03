@@ -1,0 +1,25 @@
+{
+  "name": "ai-knowledge-assistant",
+  "version": "1.0.0",
+  "description": "A fully local, privacy-safe personal AI knowledge assistant",
+  "scripts": {
+    "install-all": "./install.sh",
+    "start": "./start.sh",
+    "setup": "./setup.sh"
+  },
+  "keywords": [
+    "ai",
+    "knowledge-assistant",
+    "rag",
+    "ollama",
+    "chromadb",
+    "privacy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MajidAliyev/AI-Knowledge-Assistant.git"
+  }
+}
+
