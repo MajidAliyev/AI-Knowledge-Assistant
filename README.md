@@ -9,7 +9,7 @@ Super simple setup:
 ```bash
 # Clone it
 git clone https://github.com/MajidAliyev/AI-Knowledge-Assistant.git
-cd AI-Knowledge-Assistant
+cd AI-Knowledge-Assistant      
 
 # Install everything
 ./install.sh
